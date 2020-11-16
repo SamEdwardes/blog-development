@@ -5,6 +5,12 @@ date: 2020-06-18T11:15:03-07:00
 
 Data Science is my passion! I am currently pursuing a Masters of Data Science from UBC. Below are links to some of my personal projects and blog posts.
 
+**Python Libraries**
+
+- [pydatafaker](https://github.com/SamEdwardes/pydatafaker): A python package to create fake data with relationships between tables.
+- [spaCyTextBlob](https://github.com/SamEdwardes/spaCyTextBlob): A TextBlob sentiment analysis pipeline component for spaCy.
+- [jupydocs](https://github.com/SamEdwardes/jupydocs): Simple python package documentation with jupyter.
+
 **Data Science Projects**
 
 | Project                                                      | Details                                                      | Image                                                        |
